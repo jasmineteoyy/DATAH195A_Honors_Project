@@ -1,4 +1,4 @@
-# DATA_Honors_Project
+# DATA H195A Honors Project
 
 ## DataSet:
 
