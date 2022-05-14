@@ -13,6 +13,9 @@ For this project, we rely on Spotipy as the main source of data extraction. Spot
 - data_by_year.csv
 - descriptive_stats.csv
 - final_df.csv
+- README.md
+- code_documentation.txt
+- data_documentation.txt
 
 
 ## Source Documentation:
