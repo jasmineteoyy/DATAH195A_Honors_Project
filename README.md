@@ -1,4 +1,4 @@
-# DATA H195A Honors Project
+# DATA H195A Honors Project: Building A Recommender Using Spotify's Web API: "Spotipy"
 
 ## DataSet:
 
