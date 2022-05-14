@@ -9,7 +9,11 @@ For this project, we rely on Spotipy as the main source of data extraction. Spot
 
 ## Files
 - recommender.ipynb
-- ...
+- data_by_genres.csv
+- data_by_year.csv
+- descriptive_stats.csv
+- final_df.csv
+
 
 ## Source Documentation:
 Full credit to all sources consulted/used in this project.
