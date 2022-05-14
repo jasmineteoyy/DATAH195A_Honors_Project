@@ -12,17 +12,17 @@ For this project, we rely on Spotipy as the main source of data extraction. Spot
 
 ## Source Documentation:
 Full credit to all sources listed below:
-[1]  Zhang, Shuai, et al. “Deep Learning Based Recommender System: A Survey and New 
+- Zhang, Shuai, et al. “Deep Learning Based Recommender System: A Survey and New 
 Perspectives.” ACM Computing Surveys, vol. 52, no. 1, ACM, 2019, pp. 1–38, 
 https://doi.org/10.1145/3285029.
-[2]  “Welcome to Spotipy! - spotipy 2.0 documentation.” (n.d.). Retrieved 
+- “Welcome to Spotipy! - spotipy 2.0 documentation.” (n.d.). Retrieved 
 April 30, 2022, from https://spotipy.readthedocs.io/en/2.19.0/ 
-[3]  Lillian Pierson, P.E. “Popularity-Based Recommenders - Python Video Tutorial: Linkedin 
+- Lillian Pierson, P.E. “Popularity-Based Recommenders - Python Video Tutorial: Linkedin 
 Learning, Formerly Lynda.com.” LinkedIn, 14 July 2017, https://www.linkedin.com/learning/building-a-recommendation-system-with-python-machine-learning-ai/popularity-based-recommenders?autoAdvance=true&amp;autoSkip=true&amp;autoplay=true&amp;resume=false&amp;u=42798068.
-[4]  Bagher, Rahimpour Cami, et al. “User Trends Modeling for a Content-Based Recommender 
+- Bagher, Rahimpour Cami, et al. “User Trends Modeling for a Content-Based Recommender 
 System.” Expert Systems with Applications, vol. 87, Elsevier Ltd, 2017, pp. 209–19, https://doi.org/10.1016/j.eswa.2017.06.020.
-[5]  Neerja Doshi. “Recommendation Systems — Models and Evaluation.” Medium, Towards 
+- Neerja Doshi. “Recommendation Systems — Models and Evaluation.” Medium, Towards 
 Data Science, 19 June 2018, towardsdatascience.com/recommendation-systems-models-and-evaluation-84944a84fb8e
-[6]  Watts, Cameron. “Extracting Song Data from the Spotify API Using Python.” Medium, 
+- Watts, Cameron. “Extracting Song Data from the Spotify API Using Python.” Medium, 
 Towards Data Science, 10 Feb. 2022, towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50.
 
