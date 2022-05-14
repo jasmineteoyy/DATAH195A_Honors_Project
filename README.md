@@ -1,5 +1,5 @@
 # Building A Recommender Using Spotify's Web API: "Spotipy"
-This project is conducted independently under UC Berkeley's Data Science Honors Program.
+This thesis project is conducted independently under UC Berkeley's Data Science Honors Program.
 
 ## Goal:
 The goal of this project is to build a content-based recommender for music listeners, using data from Spotify’s Web API.
