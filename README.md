@@ -12,7 +12,7 @@ For this project, we rely on Spotipy as the main source of data extraction. Spot
 - ...
 
 ## Source Documentation:
-Full credit to all sources cited below:
+Full credit to all sources used in this project.
 - Zhang, Shuai, et al. “Deep Learning Based Recommender System: A Survey and New 
 Perspectives.” ACM Computing Surveys, vol. 52, no. 1, ACM, 2019, pp. 1–38, 
 https://doi.org/10.1145/3285029.
